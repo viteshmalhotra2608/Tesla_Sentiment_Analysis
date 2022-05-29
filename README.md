@@ -12,6 +12,20 @@ This Project aims to Extract Customer Posts and Comments from Reddit under the s
 ## Contents
 
 
+### Website.py
+
+This is the python file which contains the code of the website.
+
+To host the website follow the below steps
+
+1. download the python file.
+2. Open the terminal.
+3. Run the command "pip install streamlit".
+4. Then change the directory to where the python file is downloaded.
+5. Run the command "streamlit run myfile.py". (where myfile is the name of the file)
+6. The Website will be locally hosted in the web browser
+
+
 ### Images Folder
 
 This folder contains the plots and diagrams which are used on the websites. The images used have been uploaded on https://imgur.com/upload and links for the same has been used.
@@ -34,20 +48,6 @@ This is the Raw Dataset which has been extracted from reddit by using Data Scrap
 
 ### Sentiment_Analysis_of_Tesla.ipynb
 This is the main Jupyter Notebook which preprocesses the dataset and performs sentiment Analysis on the same.
-
-
-### Website.py
-
-This is the python file which contains the code of the website.
-
-To host the website follow the below steps
-
-1. download the python file.
-2. Open the terminal.
-3. Run the command "pip install streamlit".
-4. Then change the directory to where the python file is downloaded.
-5. Run the command "streamlit run myfile.py". (where myfile is the name of the file)
-6. The Website will be locally hosted in the web browser
 
 
 ### requirements.txt
