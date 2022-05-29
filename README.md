@@ -25,7 +25,32 @@ This is the jupyter notebook which contains the code to scrap data from the subr
 ### Data_cleaned.csv
 
 This is the cleaned dataset after text preprocessing which has been further used for sentiment analysis.
+
+
 ### Scraped_Tesla_Data_Reddit.csv
+
+This is the Raw Dataset which has been extracted from reddit by using Data Scraping Techniques.
+
+
 ### Sentiment_Analysis_of_Tesla.ipynb
+This is the main Jupyter Notebook which preprocesses the dataset and performs sentiment Analysis on the same.
+
+
 ### Website.py
+
+This is the python file which contains the code of the website.
+
+To host the website follow the below steps
+
+1. download the python file.
+2. Open the terminal.
+3. Run the command "pip install streamlit".
+4. Then change the directory to where the python file is downloaded.
+5. Run the command "streamlit run myfile.py". (where myfile is the name of the file)
+6. The Website will be locally hosted in the web browser
+
+
 ### requirements.txt
+
+This file contains all the dependencies required to run the project.
+On the terminal write the command "pip install -r requirements.txt", this will install all the necessary dependencies.
