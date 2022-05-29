@@ -12,6 +12,12 @@ This Project aims to Extract Customer Posts and Comments from Reddit under the s
 ## Contents
 
 
+### requirements.txt
+
+This file contains all the dependencies required to run the project.
+On the terminal write the command "pip install -r requirements.txt", this will install all the necessary dependencies.
+
+
 ### Website.py
 
 This is the python file which contains the code of the website.
@@ -48,9 +54,3 @@ This is the Raw Dataset which has been extracted from reddit by using Data Scrap
 
 ### Sentiment_Analysis_of_Tesla.ipynb
 This is the main Jupyter Notebook which preprocesses the dataset and performs sentiment Analysis on the same.
-
-
-### requirements.txt
-
-This file contains all the dependencies required to run the project.
-On the terminal write the command "pip install -r requirements.txt", this will install all the necessary dependencies.
