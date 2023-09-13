@@ -1,7 +1,5 @@
 # Tesla_Sentiment_Analysis
 
-Microsoft Engage 2022 Submission by Abhigyan Bajpai (abhigyanbajpai13@gmail.com)
-
 ## Introduction
 
 This project is based on the Data Analysis Problem Statement which stated to demonstrate how the Automotive Industry could harness data to take informed decisions.
